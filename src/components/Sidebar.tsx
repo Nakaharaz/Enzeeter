@@ -25,31 +25,31 @@ export function Sidebar() {
           <House weight="fill" />
           <span>Home</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <Hash />
           <span>Explore</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <Bell />
           <span>Notification</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <Envelope />
           <span>Massages</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <BookmarkSimple />
           <span>Bookmarks</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <FileText />
           <span>Lists</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <User />
           <span>Profile</span>
         </NavLink>
-        <NavLink to="#">
+        <NavLink to="/a-criar">
           <DotsThreeCircle />
           <span>More</span>
         </NavLink>
